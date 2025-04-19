@@ -10,5 +10,5 @@
   - **Cerritos College** - Cerritos, CA
 
 # Work History
-- **Cerritos Center for Performing Arts** Cerritos, CA
-- **Harkins Theaters** Cerritos, CA
+- **Cerritos Center for Performing Arts** - Cerritos, CA
+- **Harkins Theaters** - Cerritos, CA
