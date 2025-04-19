@@ -3,6 +3,7 @@
 
 ## Projects
 ### > Maps
+![Map of Djibouti](docs/kmarcelino_final.png)
 
 # Education
 - **B.S. in Geography (in progress)**
