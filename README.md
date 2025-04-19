@@ -1,17 +1,18 @@
 # Portfolio
 
 ## Projects
-### Project 1
-- Description
-- Links
+### Everyone Wants a Piece of Djibouti
+- Djibouti is strategic hub for global trade and plays a significant role in geopolitics
 
 ### Project 2
 - Description
 - Links
 
 # Education
-- university
+- **B.S. in Geography (in progress)** University of Oregon | Eugene, OR
+- **Associate of Arts in Geography** Cerritos College | Cerritos, CA
 
 # Work History
-- Workplace 1
-- Workplace 2
+- **Cerritos Center for Performing Arts** | Cerritos, CA
+- **Harkins Theaters** | Cerritos, CA
+- **Artune Jewlers** | Select Costco Locations
