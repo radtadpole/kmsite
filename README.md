@@ -6,11 +6,11 @@
   - **University of Oregon** - Eugene, OR
 - **A.A. in Geography**
   - **Cerritos College** - Cerritos, CA
-  - 
+
 # Work History
 - **Cerritos Center for Performing Arts** - Cerritos, CA
 - **Harkins Theaters** - Cerritos, CA
-- 
+
 ## Maps
 ### Everyone Wants a Piece of Djibouti, Winter 2023
 ![Map of Djibouti](docs/kmarcelino_final.png)
