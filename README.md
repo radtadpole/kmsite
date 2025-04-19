@@ -8,8 +8,10 @@
   - **Cerritos College** - Cerritos, CA
 
 ## Maps
-### Everyone Wants a Piece of Djibouti, Winter 2023
+### Everyone Wants a Piece of Djibouti, Winter 2025
 ![Map of Djibouti](docs/kmarcelino_final.png)
+### Portland Street Map, Winter 2025
+![Portland Street Map](docs/portland_streets.png)
 
 ## Work History
 - **Cerritos Center for Performing Arts** - Cerritos, CA
