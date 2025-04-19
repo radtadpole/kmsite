@@ -1,7 +1,8 @@
-# Portfolio
+# Hi, I'm Kyle!
+### I'm geography student at the University of Oregon in focusing on spatial analysis, cartography, and data visualizations — combining mapping software, GIS tools, and design principles to create visually compelling maps.
 
 ## Projects
-### Maps
+### > Maps
 
 # Education
 - **B.S. in Geography (in progress)**
