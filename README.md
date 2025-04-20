@@ -1,5 +1,5 @@
 ## Hi, I'm Kyle!
-### I'm geography student at the University of Oregon focusing on spatial analysis, cartography, and data visualizations — combining mapping software, GIS tools, and design principles to create visually compelling maps.
+### I'm geography student at the University of Oregon focusing on spatial analysis, cartography, and data visualizations. By combining mapping software, GIS tools, and design principles I strive create visually compelling maps. This is where I host my collection of maps and graphics.
 
 ## Education
 - **B.S. in Geography (in progress)**
@@ -16,3 +16,4 @@
 ## Work History
 - **Cerritos Center for Performing Arts** - Cerritos, CA
 - **Harkins Theaters** - Cerritos, CA
+- **Artune Jewlers** - Select Costco Locations
