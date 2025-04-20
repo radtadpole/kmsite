@@ -1,5 +1,5 @@
 ## Hi, I'm Kyle!
-### I'm geography student at the University of Oregon focusing on spatial analysis, cartography, and data visualizations. By combining mapping software, GIS tools, and design principles I strive create visually compelling maps. This is where I host my collection of maps and graphics.
+### I'm a geography student at the University of Oregon focusing on spatial analysis, cartography, and data visualizations. By combining mapping software, GIS tools, and design principles I strive to create visually compelling maps. Here, you'll find a little bit of information about me and a collection of my maps and graphics I've done for classes or in my free time being creative.
 
 ## Education
 - **B.S. in Geography (in progress)**
