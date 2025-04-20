@@ -22,3 +22,6 @@ On this site, you'll find:
 - **Cerritos Center for Performing Arts** - Cerritos, CA
 - **Harkins Theaters** - Cerritos, CA
 - **Artune Jewlers** - Select Costco Locations
+
+## Say Hi!
+kyleimarcelino@gmail.com
