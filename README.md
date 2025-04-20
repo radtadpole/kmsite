@@ -23,5 +23,6 @@ On this site, you'll find:
 - **Harkins Theaters** - Cerritos, CA
 - **Artune Jewlers** - Select Costco Locations
 
+---
 ## Say Hi!
 kyleimarcelino@gmail.com
