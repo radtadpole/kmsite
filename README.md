@@ -2,8 +2,9 @@
 I'm a geography student at the University of Oregon focusing on spatial analysis, cartography, and data visualizations. By combining mapping software, GIS tools, and design principles I strive to create visually compelling maps. 
 
 On this site, you'll find:
-+ Some information about me.
-+ Maps and graphics I've done for classes or in my free time experimenting with data and designs.
+- A little bit of information about me.
+
+- Maps and graphics I've done for classes or in my free time experimenting with data and designs.
 
 ## Education
 - **B.S. in Geography (in progress)**
