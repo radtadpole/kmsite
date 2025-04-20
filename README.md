@@ -6,18 +6,21 @@ On this site, you'll find:
 
 - Maps and graphics I've done for classes or in my free time experimenting with data and designs.
 
+---
 ## Education
 - **B.S. in Geography (in progress)**
   - **University of Oregon** - Eugene, OR
 - **A.A. in Geography**
   - **Cerritos College** - Cerritos, CA
 
+---
 ## Maps
 ### Everyone Wants a Piece of Djibouti, Winter 2025
 ![Map of Djibouti](docs/kmarcelino_final.png)
 ### Portland Street Map, Winter 2025
 ![Portland Street Map](docs/portland_streets.png)
 
+---
 ## Work History
 - **Cerritos Center for Performing Arts** - Cerritos, CA
 - **Harkins Theaters** - Cerritos, CA
