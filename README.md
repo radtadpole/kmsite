@@ -19,6 +19,8 @@ On this site, you'll find:
 ![Map of Djibouti](docs/kmarcelino_final.png)
 ### Portland Street Map, Winter 2025
 ![Portland Street Map](docs/portland_streets.png)
+### Dr.Fish's Roadtrip Map, Winter 2025
+![Roadtrip Map](docs/fishroadtrip.pdf)
 
 ---
 ## Work History
