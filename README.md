@@ -25,7 +25,7 @@ On this site, you'll find:
 ![CartoFish Logos](docs/CartoFIshLogo1.png)
 
 ![CartoFish Logos](docs/CartoFishLogo2.png)
-### St. Croix Map
+### St. Croix Map, Fall 2024
 ![St.Croix Map](docs/stcroix.png)
 
 ---
