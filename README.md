@@ -23,6 +23,7 @@ On this site, you'll find:
 ![Roadtrip Map](docs/fishroadtrip.png)
 ### CartoFish Lab Logo Experimental Designs, Winter 2025
 ![CartoFish Logos](docs/CartoFIshLogo1.png)
+
 ![CartoFish Logos](docs/CartoFishLogo2.png)
 
 ---
