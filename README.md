@@ -28,7 +28,7 @@ On this site, you'll find:
 ### St. Croix Map, Fall 2024
 ![St.Croix Map](docs/stcroix.png)
 ### Populations Born In-state Map, Fall 2024
-![Born In-State Populations Map](docs/population/png)
+![Born In-State Populations Map](docs/population.png)
 
 ---
 ## Work History
