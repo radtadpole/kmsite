@@ -22,8 +22,8 @@ On this site, you'll find:
 ### Dr.Fish's Roadtrip Map, Winter 2025
 ![Roadtrip Map](docs/fishroadtrip.png)
 ### CartoFish Lab Logo Experimental Designs, Winter 2025
-![CartoFish Logos](docs/CartoFishLogo1)
-![CartoFish Logos](docs/CartoFishLogo2)
+![CartoFish Logos](docs/CartoFIshLogo1.png)
+![CartoFish Logos](docs/CartoFishLogo2.png)
 
 ---
 ## Work History
