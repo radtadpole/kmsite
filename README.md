@@ -27,10 +27,12 @@ On this site, you'll find:
 ![CartoFish Logos](docs/CartoFishLogo2.png)
 ### St. Croix Map, Fall 2024
 ![St.Croix Map](docs/stcroix.png)
+### Populations Born In-state Map, Fall 2024
+![Born In-State Populations Map](docs/population/png)
 
 ---
 ## Work History
-- **Cerritos Center for Performing Arts** - Cerritos, CA
+- **Cerritos Center for the Performing Arts** - Cerritos, CA
 - **Harkins Theaters** - Cerritos, CA
 - **Artune Jewlers** - Select Costco Locations
 
