@@ -20,7 +20,7 @@ On this site, you'll find:
 ### Portland Street Map, Winter 2025
 ![Portland Street Map](docs/portland_streets.png)
 ### Dr.Fish's Roadtrip Map, Winter 2025
-![Roadtrip Map](docs/fishroadtrip.pdf)
+![Roadtrip Map](docs/fishroadtrip.png)
 
 ---
 ## Work History
