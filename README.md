@@ -21,6 +21,9 @@ On this site, you'll find:
 ![Portland Street Map](docs/portland_streets.png)
 ### Dr.Fish's Roadtrip Map, Winter 2025
 ![Roadtrip Map](docs/fishroadtrip.png)
+### CartoFish Lab Logo Experimental Designs
+![CartoFish Logos](docs/CartoFishlogo1)
+![CartoFish Logos](docs/CartoFishlogo2)
 
 ---
 ## Work History
