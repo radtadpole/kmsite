@@ -16,7 +16,7 @@ On this site, you'll find:
 ---
 ## Maps
 ### Everyone Wants a Piece of Djibouti, Winter 2025
-![Map of Djibouti](docs/kmarcelino_final.png)
+![Map of Djibouti](docs/kmar_DJIBOUTI.png)
 ### Portland Street Map, Winter 2025
 ![Portland Street Map](docs/portland_streets.png)
 ### Dr.Fish's Roadtrip Map, Winter 2025
